@@ -12,12 +12,16 @@
 <br />
 
 ### My recent projects
-Making an article website with composer
-<li>https://github.com/Nizami00/codelex-blog</li>
-Requresting data and making website
-<li>https://github.com/Nizami00/bank_project</li>
-Algorithms and small projects
-<li>https://github.com/Nizami00/onlineTasks</li>
+
+
+<li>Making an article website with composer
+  https://github.com/Nizami00/codelex-blog</li>
+
+<li>Requresting data and making website
+  https://github.com/Nizami00/bank_project</li>
+
+<li>Algorithms and small projects
+  https://github.com/Nizami00/onlineTasks</li>
 
 
 <br />
