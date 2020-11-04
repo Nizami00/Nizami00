@@ -14,13 +14,13 @@
 ### My recent projects
 
 
-<li>Making an article website with composer
+<li>Making an article website with composer<br>
   https://github.com/Nizami00/codelex-blog</li>
 
-<li>Requresting data and making website
+<li>Requresting data and making website<br>
   https://github.com/Nizami00/bank_project</li>
 
-<li>Algorithms and small projects
+<li>Algorithms and small projects<br>
   https://github.com/Nizami00/onlineTasks</li>
 
 
