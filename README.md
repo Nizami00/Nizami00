@@ -12,8 +12,7 @@
 <br />
 
 ### My recent projects
-<li>
-  <ul>https://github.com/Nizami00/codelex-blog</ul>
+<li>https://github.com/Nizami00/codelex-blog</li>
   <ul>https://github.com/Nizami00/bank_project</ul>
   <ul>https://github.com/Nizami00/onlineTasks</ul>
 </li>
