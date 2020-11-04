@@ -13,9 +13,9 @@
 
 ### My recent projects
 <li>https://github.com/Nizami00/codelex-blog</li>
-  <ul>https://github.com/Nizami00/bank_project</ul>
-  <ul>https://github.com/Nizami00/onlineTasks</ul>
-</li>
+<li>https://github.com/Nizami00/bank_project</li>
+<li>https://github.com/Nizami00/onlineTasks</li>
+
 
 <br />
 
