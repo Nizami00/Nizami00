@@ -20,8 +20,8 @@
 <li>Requresting data and making website<br>
   https://github.com/Nizami00/bank_project</li>
 
-<li>Algorithms and small projects<br>
-  https://github.com/Nizami00/onlineTasks</li>
+<li>Make use of Yahoo Api<br>
+  https://github.com/Nizami00/yahooapi</li>
 
 
 <br />
